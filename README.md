@@ -1,1 +1,1 @@
-# 100s-of-javascript
+# Hundreds of JavaScript
